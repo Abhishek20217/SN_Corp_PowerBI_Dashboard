@@ -13,7 +13,7 @@ This Dashboard shows:
   <a href="https://github.com/Abhishek20217/SN_Corp_PowerBI_Dashboard/blob/main/SN%20Corp.xlsx"> SN Corp Data <a/>
 
   ## Power BI Visuals used
-* ##Slicers - For date range and ship mode filtering
+* Slicers - For date range and ship mode filtering
 * Map visual - For Country-level sales analysis across Europe.
 * Pie chart - for quantity of sales by region (Central, North, South Europe)
 * Bar chart - for sub-category performance
