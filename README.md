@@ -1,13 +1,13 @@
 # SN Corp Power BI Dashboard
-## overview
+## Overview
 This is a Power BI Dashboard which is created for SN Corp Organisation, which provides information about customer behaviour from 2017-2020, which also tells about sales, profit and the cost analysis.
 This Dashboard shows:
-* Monitoring Total sales, total profit and total cost
-* Helps to identify top customers
-* Gives information about trend over time
-* Analysing sales by sub-categories
-* Understanding geographical sales across Europe
-* Examines shipping preferences and regional quantity pattern
+* Monitoring Total sales, Total profit and Total cost
+* Helps to identify Top Customers
+* Gives information about Trend over time
+* Analysing sales by Sub-Categories
+* Understanding Geographical sales across Europe
+* Examines shipping preferences and Regional quantity pattern
 
   ## Dataset used
   <a href="https://github.com/Abhishek20217/SN_Corp_PowerBI_Dashboard/blob/main/SN%20Corp.xlsx"> SN Corp Data <a/>
